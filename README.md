@@ -1,4 +1,4 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=malihamohit1100.malihamohit1100" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maliha+Mohit!;" />
@@ -31,13 +31,13 @@
   <a href="">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
   </a>
-  -->
  <a href="">
     <img src="https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=white" />
  </a>
 <a href="https://www.freecodecamp.org/Maliha-CSE-53-1100">
     <img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" />
  </a>
+ -->
 </div>
 
 <hr/>
@@ -51,15 +51,14 @@
 
 <br/>
 <hr/>
-
+<!--- *I have to add snake here*
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="" />
-  
   <br/><br/><br/>
 </div>
-
+--->
 <hr/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
@@ -68,7 +67,7 @@
   <img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=malihamohit1100&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=malihamohit1100&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=malihamohit1100&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=malihamohit1100&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
 <br/><br/>
@@ -77,21 +76,6 @@
 
 <br/>
 
-
-
-
-
-
-
-
-
-### Hi, I'm Maliha!
-
-- 🙋‍♀️ Upcoming Software Engineer sharing about my journey and learnings in tech<br/>
-- 🏫 Studied Computer Science & Engineering at Prime University, Dhaka<br/>
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- ⚡ Fun fact:
-
-[![Maliha's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=malihamohit1100&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/malihamohit1100/github-readme-stats#gh-dark-mode-only)
-[![Maliha's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=malihamohit1100&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/malihamohit1100/github-readme-stats#gh-light-mode-only)
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thank+you!;+For+visiting+my+profile!;" />
+</h1>
