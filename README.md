@@ -14,7 +14,7 @@
 
 💬 Ask me about **JAVA, Javascript, Bootstrap, MySql... or anything [here](https://github.com/malihamohit1100/malihamohit1100/issues)**
 
-⚡ Fun fact **Reading Books is fun for me, I can read for 24/7 a day. I also draw, animate, and record audiobooks**
+⚡ Fun fact **Reading Books is fun for me, I can read for 24/7. I also draw, animate, and record audiobooks**
  
 🌍 I'm proficient at different languages **ENGLISH, BANGLA, GERMAN, KOREAN, HINDI**
 
