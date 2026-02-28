@@ -4,19 +4,19 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Maliha+Mohit!;" />
 </h1>
 
-<h3 align="center">A passionate software developer from Bangladesh ʙ⫐</h3>
+<h3 align="center">A passionate software Engineer from Bangladesh ʙ⫐</h3>
 
 <br/>
 
 <div align="center">
 
- 🌱 I’m currently learning **PHP, PHYTHON, Node.js, React**
+ 🌱 I’m currently learning **PHP, Python, Django, React and Ai**
 
-💬 Ask me about **JAVA, Javascript, Bootstrap, MySql... or anything [here](https://github.com/malihamohit1100/malihamohit1100/issues)**
+💬 Ask me about **JAVA, JavaScript, Bootstrap, MySql... or anything [here](https://github.com/malihamohit1100/malihamohit1100/issues)**
 
-⚡ Fun fact **Reading Books is fun for me, I can read for 24/7. I also draw, animate, and record audiobooks**
+⚡ Fun fact **Reading Books are fun, I can read 24/7. I also draw, animate, and record audiobooks**
  
-🌍 I'm proficient at different languages **ENGLISH, BANGLA, GERMAN, KOREAN, HINDI**
+🌍 I'm practicing different languages **ENGLISH, BANGLA, GERMAN, KOREAN**
 
  </div>
  
@@ -46,7 +46,7 @@
 <br/>
 <div align="center">
    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,git,php,cpp" />
-   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,nextjs,mysql,sublime,selenium" /><br>
+   <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,c,java,mysql,sublime,selenium" /><br>
 </div>
 
 <br/>
