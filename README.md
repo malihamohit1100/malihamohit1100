@@ -10,13 +10,13 @@
 
 <div align="center">
 
- 🌱 I’m currently learning **PHP, Python, Django, React and Ai**
+ 🌱 I’m currently learning **Python, Django, React and Ai**
 
 💬 Ask me about **JAVA, JavaScript, Bootstrap, MySql... or anything [here](https://github.com/malihamohit1100/malihamohit1100/issues)**
 
 ⚡ Fun fact **Reading Books are fun, I can read 24/7. I also draw, animate, and record audiobooks**
  
-🌍 I'm practicing different languages **ENGLISH, BANGLA, GERMAN, KOREAN**
+🌍 I'm practicing different languages **BANGLA, ENGLISH, GERMAN, KOREAN, AND ARABIC**
 
  </div>
  
