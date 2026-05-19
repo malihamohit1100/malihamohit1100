@@ -16,7 +16,7 @@
 
 ⚡ Fun fact **Reading Books are fun, I can read 24/7. I also draw, animate, and record audiobooks**
  
-🌍 I'm practicing different languages **BANGLA, ENGLISH, GERMAN, KOREAN, AND ARABIC**
+🌍 I'm learning different languages: **GERMAN, KOREAN, AND ARABIC**
 
  </div>
  
